@@ -1,8 +1,9 @@
-streamlit
-gdown
-pandas
-spacy
-annoy
-numpy
-transformers
-torch
+annoy==1.17.3
+gdown==5.2.0
+googletrans==4.0.0rc1
+numpy==2.2.3
+pandas==2.2.3
+spacy==3.8.4
+SpeechRecognition==3.14.1
+streamlit==1.42.0
+transformers==4.48.2
