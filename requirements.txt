@@ -9,4 +9,3 @@ torch
 googletrans
 SpeechRecognition
 webrtcvad
-en-core-web-lg
