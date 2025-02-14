@@ -4,9 +4,9 @@ pandas
 spacy
 annoy
 numpy>=1.26,<1.27
-transformers
+transformers==4.48.3
 torch
 googletrans==4.0.0-rc1
 SpeechRecognition
 webrtcvad
-en-core-web-lg
+en-core-web-lg==3.8.0
